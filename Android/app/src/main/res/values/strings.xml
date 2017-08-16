@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SmartCart</string>
+    <string name="action_settings">Settings</string>
+    <string name="navigation_drawer_open">onDrawerOpened</string>
+    <string name="navigation_drawer_close">onDrawerClosed</string>
+    <string name="title_activity_base">BaseActivity</string>
+    <array name="items_menu">
+        <item>Quantity</item>
+        <item>Remove</item>
+    </array>
+</resources>
