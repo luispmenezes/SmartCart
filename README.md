@@ -5,8 +5,6 @@
   
 ![Screen 1](/img_1.png)
 
-![Screen 2](/img_2.png)
-
 The details of both version of the project can be viewed in the links bellow:
 * [Android](https://drive.google.com/file/d/0B3nMgJHBhW_QZHhDcDFBWDc4c0E)
 * [IOS](https://drive.google.com/open?id=12Bz7qpiz5O4HOPfEVd-DDYeeK1koUoKVWHlXfBOwMrk)
